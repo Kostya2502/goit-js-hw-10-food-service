@@ -1,4 +1,4 @@
-import css from "./css/styles.css";
+import "./css/styles.css";
 import menu from "./menu.json";
 import cardsTemplate from './templates/cardsTemplate.hbs';
 
